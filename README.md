@@ -1,1 +1,0 @@
-A program that goes through traffic camera footage to detect speed limit violations. The program is also able to differentiate between parked, and moving vehicles, as well as different kind of objects. The source code of the program can be found in the above ipynb file, and more extensive details can be found in the report.
