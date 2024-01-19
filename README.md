@@ -1,1 +1,1 @@
-A program that goes through traffic camera footage to detect speed limit violations. The program is also able to differentiate between parked, and moving vehicles, as well as different kind of objects. More details about the program can be found in the above report.
+A program that analyzes traffic camera footage to detect speed limit violations. The program is also able to differentiate between parked, and moving vehicles, as well as different kind of objects. More details about the program can be found in the above report.
